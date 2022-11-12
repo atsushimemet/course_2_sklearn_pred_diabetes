@@ -5,3 +5,5 @@ flake8
 isort
 mypy
 pandas
+matplotlib
+scikit-learn
