@@ -1,0 +1,7 @@
+jupyterlab
+jupyterlab_code_formatter
+black
+flake8
+isort
+mypy
+pandas
