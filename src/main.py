@@ -33,7 +33,6 @@ def main():
     dirname = './data/output/'
     filename = dirname + 'img.png'
     plt.savefig(filename)
-    
     print('end')
 
 
